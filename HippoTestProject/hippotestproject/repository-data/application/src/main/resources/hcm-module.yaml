@@ -1,0 +1,6 @@
+group: 
+  name: hippotestproject
+  after: hippo-cms
+project: hippotestproject
+module:
+  name: hippotestproject-repository-data-application

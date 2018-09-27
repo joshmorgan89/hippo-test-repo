@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>hippotestproject</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedProjectPackage>com.hippotest</selectedProjectPackage>
+  <selectedBeansPackage>com.hippotest.beans</selectedBeansPackage>
+  <selectedComponentsPackage>com.hippotest.components</selectedComponentsPackage>
+  <selectedRestPackage>com.hippotest.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>

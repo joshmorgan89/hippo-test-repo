@@ -1,0 +1,4 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/hippotestproject/hst:workspace/hst:containers:
+      jcr:primaryType: hst:containercomponentfolder
